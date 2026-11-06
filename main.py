@@ -1,10 +1,3 @@
-"""
-AI Body Tracker — покращена версія
-Залежності:
-    pip install opencv-python mediapipe pillow
-
-Під час першого запуску модель MediaPipe завантажується автоматично.
-"""
 
 from __future__ import annotations
 
